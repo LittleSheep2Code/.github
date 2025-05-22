@@ -4,8 +4,8 @@
 - 🔭 Students right now, keep exploring new technology.
 - 🔧 Primary techstack: Golang, .NET, Flutter, ReactJS, VueJS
 - 🌍 Language I speak: Mandarin (native), English
-- ❤️ Sponsor my work at [afdian.com/a/LittleSheep](https://afdian.com/a/LittleSheep) (They ask me to add the link, but I only want their webhooks)
 - 💼 Currently working on [the Solar Networh / Dyson Network](https://github.com/Solsynth/HyperNet.Surface)
+- ❤️ Support my work at [afdian.com/a/LittleSheep](https://afdian.com/a/LittleSheep) (They ask me to add the link, but I only want their webhooks)
 
 ### Languages that I use
 
